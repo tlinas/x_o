@@ -12,6 +12,7 @@ mygtukas = []
 player = "O"
 pradeda = False
 
+print("nothing")
 class Mygtukas():
     def __init__(self,eilutes_remas,b):
         self.position = len(mygtukas)
